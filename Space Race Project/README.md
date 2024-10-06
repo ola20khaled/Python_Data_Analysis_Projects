@@ -1,4 +1,6 @@
-# Python_Data_Analysis_Projects
-Practising Data Analysis &amp; Visualization with Python.
 
-👋 Welcome to the project! If you're interested in providing mentorship, guidance or any recommendations, I would greatly appreciate your expertise and support. Please feel free to reach out and let me know if you're available to mentor. I value your contributions and look forward to working with you!
+#Analysing and visualizing space race data using Python.
+
+Cleaning, analysing and visualizing data from nextspaceflight.com using Python libraries such as Pandas, NumPy, Matplotlib, Plotly and Seaborn.
+This Project was a practising project from the Udemy course "100 Days of Code: The Complete Python Pro Bootcamp for 2023."
+Working on this project put most of my learning knowledge to the test, which helped strengthen my knowledge and learn how to handle similar projects on my own.
