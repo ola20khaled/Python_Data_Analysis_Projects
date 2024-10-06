@@ -1,5 +1,5 @@
 
-#Analysing and visualizing space race data using Python.
+# Analysing and visualizing space race data using Python.
 
 Cleaning, analysing and visualizing data from nextspaceflight.com using Python libraries such as Pandas, NumPy, Matplotlib, Plotly and Seaborn.
 This Project was a practising project from the Udemy course "100 Days of Code: The Complete Python Pro Bootcamp for 2023."
